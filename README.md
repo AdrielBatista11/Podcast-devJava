@@ -47,3 +47,5 @@ Podcast sobre backend, Java, tendências e mercado de tecnologia.
 *"E é isso, pessoal! Espero que vocês tenham curtido essa viagem rápida pelo mundo do backend. Se gostou, já compartilha esse episódio com aquele amigo que também quer virar dev. Eu sou Adriel, e esse foi o **NullPointer Cast** dessa semana. Valeuuu e até a próxima!"*
 
 
+## 🔗 Arquivo de áudio:
+
